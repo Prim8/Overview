@@ -11,12 +11,13 @@ mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 ---
 
-## Background
+## About me
 
 ```
-Educational background:
+Background:
 ```
 * PhD Natural Resources, University of Minnesota (December 2013)
+* PyLadies (Python for female professional) co-organizer and contributor
 
 ```
 Some Skills:
