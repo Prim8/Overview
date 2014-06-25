@@ -1,6 +1,6 @@
 ---
 title       : An Interactive Presentation of My Professional Background
-subtitle    : Chaïna Bapikee
+subtitle    : Chaïna Bapikee, PhD
 author      : Use the right and left arrow keys on your keyboard to navigate through this presentation
 job         : 
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
@@ -41,7 +41,21 @@ Complementary skills (Certificates):
 
 ---
 
-## Projects
+## Some of my projects
+
+* For my `PhD`, I used a variety of techniques to model the sensitivity of forests to several environmental variables in a context of climate change
+
+* Use `web scraping` to analyze the involvement and participation of individuals to tech events, classified by gender
+
+* Use a `Random Forest` classification model for human activity recognition to predict how "well" a physical activity was performed
+
+* `Mining social data` from Twitter using they `API`
+
+* Create `Web Applications` for data visualization
+
+---
+
+## For example...
 
 The next few slides present some of my projects. They include: 
 
@@ -51,8 +65,9 @@ The next few slides present some of my projects. They include:
 
 Additionally, this `Interactive HTML5 Presentation` is written in R Markdown using Slidify.
 
----
+For a more comple list of my projects and code, visit my <a href="https://github.com/Prim8?tab=repositories" target="_blank">Github</a> account 
 
+---
 
 ## Interactive Web Application: Finance Study
 Play around with this application (straight from this slide), open it in a <a href="https://prim8.shinyapps.io/Finance/" target="_blank">new browser</a> tab, or go to
@@ -88,7 +103,7 @@ Scroll down this document, open it in a
 
 ## And more...
 
-For a more complete list of projects, visit my <a href="https://github.com/Prim8" target="_blank">Github</a> account. 
+For a more complete list of projects, visit my <a href="https://github.com/Prim8?tab=repositories" target="_blank">Github</a> account. 
 
 <iframe src=http://nbviewer.ipython.org/github/Prim8/></iframe>
 
