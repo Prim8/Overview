@@ -11,23 +11,19 @@ mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 ---
 
-## About me
+## Background
 
 ```
-Background:
+About me:
 ```
-* PhD Natural Resources, University of Minnesota (December 2013)
 * PyLadies (Python for female professional) co-organizer and contributor
-
-```
-Some Skills:
-```
 * 8 + years experience in data science and statistical analyses
 * Qualifies to perform all stages of data analysis (data pulling, pre-processing, and reporting)
+* Interested in all aspects of statistics and machine learning
 * Well-suited to interact cross-functionally with a wide range of people 
 
 ```
-Complementary skills (Certificates):
+Complementary skills (awarded certificates):
 ```
 * <a href="https://www.coursera.org/course/ml" target="_blank">Machine Learning</a>
 * <a href="https://www.coursera.org/specialization/jhudatascience/1?utm_medium=listingPage" target="_blank">Data Science Specialization</a>
@@ -43,13 +39,13 @@ Complementary skills (Certificates):
 
 ## Some of my projects
 
-* For my `PhD`, I used a variety of techniques to model the sensitivity of forests to several environmental variables in a context of climate change
+* For my `PhD`, I used a variety of quantitative approaches to model the sensitivity of forests to several environmental variables in a context of climate change
 
-* Use `web scraping` to analyze the involvement and participation of individuals to tech events, classified by gender
+* Utilize `web scraping` techniques in an attempt to quantify gender gap in tech events
 
-* Use a `Random Forest` classification model for human activity recognition to predict how "well" a physical activity was performed
+* Build a `Random Forest` classification model for human activity recognition to predict how "well" a physical activity was performed
 
-* `Mining social data` from Twitter using they `API`
+* `Mining social data` from Twitter using their `API`
 
 * Create `Web Applications` for data visualization
 
@@ -65,7 +61,7 @@ The next few slides present some of my projects. They include:
 
 Additionally, this `Interactive HTML5 Presentation` is written in R Markdown using Slidify.
 
-For a more comple list of my projects and code, visit my <a href="https://github.com/Prim8?tab=repositories" target="_blank">Github</a> account 
+For a more complete list of my projects and code (Python and R), visit my <a href="https://github.com/Prim8?tab=repositories" target="_blank">Github</a> account. 
 
 ---
 
