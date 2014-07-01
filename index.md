@@ -16,6 +16,7 @@ knit        : slidify::knit2slides
 ```
 About me:
 ```
+* Data Analyst at Barr Engineering
 * PyLadies (Python for female professional) co-organizer and contributor
 * 8 + years experience in data science and statistical analyses
 * Qualifies to perform all stages of data analysis (data pulling, pre-processing, and reporting)
@@ -25,8 +26,8 @@ About me:
 ```
 Complementary skills (awarded certificates):
 ```
-* <a href="https://www.coursera.org/course/ml" target="_blank">Machine Learning</a>
-* <a href="https://www.coursera.org/specialization/jhudatascience/1?utm_medium=listingPage" target="_blank">Data Science Specialization</a>
+* <a href="https://www.coursera.org/course/ml" target="_blank">Machine Learning</a> (e.g. regression, SVM, recommender systems, anomaly detection)
+* <a href="https://www.coursera.org/specialization/jhudatascience/1?utm_medium=listingPage" target="_blank">Data Science Specialization</a> (9 certificates: e.g. getting/cleaning data, practical machine learning, exploratory data analysis, regression models)
 
 ---
 
