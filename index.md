@@ -26,8 +26,8 @@ About me:
 ```
 Complementary skills (awarded certificates):
 ```
-* <a href="https://www.coursera.org/course/ml" target="_blank">Machine Learning</a> (e.g. regression, SVM, recommender systems, anomaly detection)
-* <a href="https://www.coursera.org/specialization/jhudatascience/1?utm_medium=listingPage" target="_blank">Data Science Specialization</a> (9 certificates: e.g. getting/cleaning data, practical machine learning, exploratory data analysis, regression models)
+* <a href="https://www.coursera.org/course/ml" target="_blank">Machine Learning</a> (e.g. regression, PCA, recommender system, anomaly detection)
+* <a href="https://www.coursera.org/specialization/jhudatascience/1?utm_medium=listingPage" target="_blank">Data Science Specialization</a> (9 certificates earned with distinction, including getting/cleaning data, practical machine learning, exploratory data analysis, regression models)
 
 ---
 
